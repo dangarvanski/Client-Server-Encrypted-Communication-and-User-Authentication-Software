@@ -1,0 +1,52 @@
+C:\Users\danai\source\repos\Client\Client\bin\Debug\Client.exe.config
+C:\Users\danai\source\repos\Client\Client\bin\Debug\Client.exe
+C:\Users\danai\source\repos\Client\Client\bin\Debug\Client.pdb
+C:\Users\danai\source\repos\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\danai\source\repos\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\danai\source\repos\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\danai\source\repos\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\danai\source\repos\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\danai\source\repos\Client\Client\obj\Debug\Client.exe
+C:\Users\danai\source\repos\Client\Client\obj\Debug\Client.pdb
+C:\Users\100415847\Desktop\GUI\Client\Client\bin\Debug\Client.exe.config
+C:\Users\100415847\Desktop\GUI\Client\Client\bin\Debug\Client.exe
+C:\Users\100415847\Desktop\GUI\Client\Client\bin\Debug\Client.pdb
+C:\Users\100415847\Desktop\GUI\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\100415847\Desktop\GUI\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\100415847\Desktop\GUI\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\100415847\Desktop\GUI\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\100415847\Desktop\GUI\Client\Client\obj\Debug\Client.exe
+C:\Users\100415847\Desktop\GUI\Client\Client\obj\Debug\Client.pdb
+F:\Networks and Security\My Work\GUI\Client\Client\bin\Debug\Client.exe.config
+F:\Networks and Security\My Work\GUI\Client\Client\bin\Debug\Client.exe
+F:\Networks and Security\My Work\GUI\Client\Client\bin\Debug\Client.pdb
+F:\Networks and Security\My Work\GUI\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+F:\Networks and Security\My Work\GUI\Client\Client\obj\Debug\Client.Form1.resources
+F:\Networks and Security\My Work\GUI\Client\Client\obj\Debug\Client.Properties.Resources.resources
+F:\Networks and Security\My Work\GUI\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+F:\Networks and Security\My Work\GUI\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+F:\Networks and Security\My Work\GUI\Client\Client\obj\Debug\Client.exe
+F:\Networks and Security\My Work\GUI\Client\Client\obj\Debug\Client.pdb
+G:\Networks and Security\My Work\GUI\Client\Client\bin\Debug\Client.exe.config
+G:\Networks and Security\My Work\GUI\Client\Client\bin\Debug\Client.exe
+G:\Networks and Security\My Work\GUI\Client\Client\bin\Debug\Client.pdb
+G:\Networks and Security\My Work\GUI\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+G:\Networks and Security\My Work\GUI\Client\Client\obj\Debug\Client.Form1.resources
+G:\Networks and Security\My Work\GUI\Client\Client\obj\Debug\Client.Properties.Resources.resources
+G:\Networks and Security\My Work\GUI\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+G:\Networks and Security\My Work\GUI\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+G:\Networks and Security\My Work\GUI\Client\Client\obj\Debug\Client.exe
+G:\Networks and Security\My Work\GUI\Client\Client\obj\Debug\Client.pdb
+C:\Users\100415847\Desktop\GUI\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\100415847\Desktop\GUI\Client\Client\obj\Debug\Client.LoginWindow.resources
+C:\Users\100415847.UNIVERSITY.000\Desktop\GUI\Client\Client\bin\Debug\Client.exe.config
+C:\Users\100415847.UNIVERSITY.000\Desktop\GUI\Client\Client\bin\Debug\Client.exe
+C:\Users\100415847.UNIVERSITY.000\Desktop\GUI\Client\Client\bin\Debug\Client.pdb
+C:\Users\100415847.UNIVERSITY.000\Desktop\GUI\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\100415847.UNIVERSITY.000\Desktop\GUI\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\100415847.UNIVERSITY.000\Desktop\GUI\Client\Client\obj\Debug\Client.LoginWindow.resources
+C:\Users\100415847.UNIVERSITY.000\Desktop\GUI\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\100415847.UNIVERSITY.000\Desktop\GUI\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\100415847.UNIVERSITY.000\Desktop\GUI\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\100415847.UNIVERSITY.000\Desktop\GUI\Client\Client\obj\Debug\Client.exe
+C:\Users\100415847.UNIVERSITY.000\Desktop\GUI\Client\Client\obj\Debug\Client.pdb

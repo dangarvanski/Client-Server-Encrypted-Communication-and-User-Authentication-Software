@@ -1,0 +1,61 @@
+C:\Users\danai\source\repos\Server\Server\bin\Debug\Server.exe.config
+C:\Users\danai\source\repos\Server\Server\bin\Debug\Server.exe
+C:\Users\danai\source\repos\Server\Server\bin\Debug\Server.pdb
+C:\Users\danai\source\repos\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\danai\source\repos\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\danai\source\repos\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\danai\source\repos\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\danai\source\repos\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\danai\source\repos\Server\Server\obj\Debug\Server.exe
+C:\Users\danai\source\repos\Server\Server\obj\Debug\Server.pdb
+C:\Users\100415847\Desktop\GUI\Server\Server\bin\Debug\Server.exe.config
+C:\Users\100415847\Desktop\GUI\Server\Server\bin\Debug\Server.exe
+C:\Users\100415847\Desktop\GUI\Server\Server\bin\Debug\Server.pdb
+C:\Users\100415847\Desktop\GUI\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\100415847\Desktop\GUI\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\100415847\Desktop\GUI\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\100415847\Desktop\GUI\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\100415847\Desktop\GUI\Server\Server\obj\Debug\Server.exe
+C:\Users\100415847\Desktop\GUI\Server\Server\obj\Debug\Server.pdb
+F:\Networks and Security\My Work\GUI\Server\Server\bin\Debug\Server.exe.config
+F:\Networks and Security\My Work\GUI\Server\Server\bin\Debug\Server.exe
+F:\Networks and Security\My Work\GUI\Server\Server\bin\Debug\Server.pdb
+F:\Networks and Security\My Work\GUI\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+F:\Networks and Security\My Work\GUI\Server\Server\obj\Debug\Server.Form1.resources
+F:\Networks and Security\My Work\GUI\Server\Server\obj\Debug\Server.Properties.Resources.resources
+F:\Networks and Security\My Work\GUI\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+F:\Networks and Security\My Work\GUI\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+F:\Networks and Security\My Work\GUI\Server\Server\obj\Debug\Server.exe
+F:\Networks and Security\My Work\GUI\Server\Server\obj\Debug\Server.pdb
+G:\Networks and Security\My Work\GUI\Server\Server\bin\Debug\Server.exe.config
+G:\Networks and Security\My Work\GUI\Server\Server\bin\Debug\Server.exe
+G:\Networks and Security\My Work\GUI\Server\Server\bin\Debug\Server.pdb
+G:\Networks and Security\My Work\GUI\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+G:\Networks and Security\My Work\GUI\Server\Server\obj\Debug\Server.Form1.resources
+G:\Networks and Security\My Work\GUI\Server\Server\obj\Debug\Server.Properties.Resources.resources
+G:\Networks and Security\My Work\GUI\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+G:\Networks and Security\My Work\GUI\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+G:\Networks and Security\My Work\GUI\Server\Server\obj\Debug\Server.exe
+G:\Networks and Security\My Work\GUI\Server\Server\obj\Debug\Server.pdb
+C:\Users\100415847\Desktop\GUI\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\100415847\Desktop\GUI\Server\Server\obj\Debug\Server.Form2.resources
+C:\Users\100415847.UNIVERSITY.000\Desktop\GUI\Server\Server\bin\Debug\Server.exe.config
+C:\Users\100415847.UNIVERSITY.000\Desktop\GUI\Server\Server\bin\Debug\Server.exe
+C:\Users\100415847.UNIVERSITY.000\Desktop\GUI\Server\Server\bin\Debug\Server.pdb
+C:\Users\100415847.UNIVERSITY.000\Desktop\GUI\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\100415847.UNIVERSITY.000\Desktop\GUI\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\100415847.UNIVERSITY.000\Desktop\GUI\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\100415847.UNIVERSITY.000\Desktop\GUI\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\100415847.UNIVERSITY.000\Desktop\GUI\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\100415847.UNIVERSITY.000\Desktop\GUI\Server\Server\obj\Debug\Server.exe
+C:\Users\100415847.UNIVERSITY.000\Desktop\GUI\Server\Server\obj\Debug\Server.pdb
+C:\Users\danai\Desktop\GUI\Server\Server\bin\Debug\Server.exe.config
+C:\Users\danai\Desktop\GUI\Server\Server\bin\Debug\Server.exe
+C:\Users\danai\Desktop\GUI\Server\Server\bin\Debug\Server.pdb
+C:\Users\danai\Desktop\GUI\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\danai\Desktop\GUI\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\danai\Desktop\GUI\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\danai\Desktop\GUI\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\danai\Desktop\GUI\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\danai\Desktop\GUI\Server\Server\obj\Debug\Server.exe
+C:\Users\danai\Desktop\GUI\Server\Server\obj\Debug\Server.pdb
